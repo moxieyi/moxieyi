@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moxieyi
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning data analytics.
+- 🌱 I’m currently learning data analysis.
 - 📫 How to reach me:
 - email: mohdsaidm@gmail.com
 <!---
